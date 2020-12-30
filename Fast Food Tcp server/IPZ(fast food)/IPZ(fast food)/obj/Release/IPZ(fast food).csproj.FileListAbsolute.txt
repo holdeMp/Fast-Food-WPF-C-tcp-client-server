@@ -1,0 +1,63 @@
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Release\IPZ(fast food).exe.config
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Release\IPZ(fast food).exe
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Release\IPZ(fast food).pdb
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Release\ControlzEx.dll
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Release\Gu.Wpf.Adorners.dll
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Release\MahApps.Metro.dll
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Release\MaterialDesignColors.dll
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Release\MaterialDesignThemes.MahApps.dll
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Release\Microsoft.Xaml.Behaviors.dll
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Release\ControlzEx.pdb
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Release\ControlzEx.xml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Release\Gu.Wpf.Adorners.xml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Release\MahApps.Metro.pdb
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Release\MahApps.Metro.xml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Release\MaterialDesignColors.pdb
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Release\MaterialDesignThemes.MahApps.pdb
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Release\Microsoft.Xaml.Behaviors.pdb
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Release\Microsoft.Xaml.Behaviors.xml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\IPZ(fast food).csprojAssemblyReference.cache
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\App.baml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\Beverages.g.cs
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\Burgers.g.cs
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\Cart.g.cs
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\Chicken.g.cs
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\HappyMeal.g.cs
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\LogIn.g.cs
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\Menu.g.cs
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\MyOrders.g.cs
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\MyReservations.g.cs
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\Registration.g.cs
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\MainWindow.g.cs
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\Make an order.g.cs
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\Reservation.g.cs
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\SearchResult.g.cs
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\ViewGoods.g.cs
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\App.g.cs
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\IPZ(fast food)_MarkupCompile.cache
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\IPZ(fast food)_MarkupCompile.lref
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\Beverages.baml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\Burgers.baml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\Cart.baml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\Chicken.baml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\HappyMeal.baml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\LogIn.baml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\Menu.baml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\MyOrders.baml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\MyReservations.baml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\Registration.baml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\MainWindow.baml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\Make an order.baml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\Reservation.baml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\SearchResult.baml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\ViewGoods.baml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\IPZ(fast food).g.resources
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\IPZ_fast_food_.Properties.Resources.resources
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\IPZ(fast food).csproj.GenerateResource.cache
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\IPZ(fast food).csproj.CoreCompileInputs.cache
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\IPZ(fast food).csproj.CopyComplete
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\IPZ(fast food).exe
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Release\IPZ(fast food).pdb

@@ -1,0 +1,20 @@
+﻿<UserControl
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IPZ_fast_food_"
+        xmlns:System="clr-namespace:System;assembly=mscorlib" x:Class="IPZ_fast_food_.ViewGoods"
+        mc:Ignorable="d"
+        Width="1124" Height="600">
+   
+    <Grid >
+        <Button Content="Burgers" Margin="10,37,971,531" Click="Burgers_Click" />
+        <Button Content="Beverages" Margin="10,92,971,476" Click="Beverages_Click" />
+        <Button Content="Chicken and Sandwiches" Margin="10,161,957,407" Click="Chicken_Click" FontSize="11" RenderTransformOrigin="0.5,0.5" />
+        <Button Content="Happy Meal" Margin="10,216,957,352" Click="Happy_Click" RenderTransformOrigin="0.459,-1.344" />
+        <Grid Margin="172,0,10,165" Height="425"  HorizontalAlignment="Left" VerticalAlignment="Bottom" Background="White">
+            <Grid x:Name="GridPrinc" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+        </Grid>
+    </Grid>
+</UserControl>

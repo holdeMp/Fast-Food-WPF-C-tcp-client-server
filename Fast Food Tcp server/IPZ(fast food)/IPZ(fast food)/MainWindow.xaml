@@ -1,0 +1,32 @@
+﻿<Window x:Class="IPZ_fast_food_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        
+        xmlns:local="clr-namespace:IPZ_fast_food_"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Icon="images/favicon.ico"
+        Title="Fast Food Service" Height="499.87" Width="1385.134" ResizeMode="CanMinimize" Topmost="True" WindowStartupLocation="CenterOwner">
+
+    <Window.Background>
+        <ImageBrush ImageSource="images/menu.jpg" />
+    </Window.Background>
+    <Grid HorizontalAlignment="Right" Width="1167" Margin="0,0,2,0" RenderTransformOrigin="0.527,0.495">
+        <Grid Margin="-209,0,1162,0" Background="#FF2E1C1C">
+            <materialDesign:PackIcon Kind="FoodForkDrink"  Width="90" Height="51" VerticalAlignment="Center" Margin="-9,30,0,388" RenderTransformOrigin="9.8,0.467" Foreground="#FFF5EFEF"/>
+            <materialDesign:PackIcon Kind="CheckBold"  Width="90" Height="51" VerticalAlignment="Center" Margin="-9,119,0,299" RenderTransformOrigin="9.8,0.467" Foreground="#FFF5EFEF"/>
+            <Button Content="Make an order" FontStyle="Italic" FontWeight="DemiBold" FontSize="12" HorizontalAlignment="Left" Margin="65,119,0,0" VerticalAlignment="Top" Width="114" Click="Make_order_Click" Height="52" Background="{x:Null}" Foreground="White"/>
+            <Button Content="Menu" FontStyle="Italic" Background="#FF2E1C1C" FontWeight="DemiBold" FontSize="16" HorizontalAlignment="Left" Margin="65,30,0,0" VerticalAlignment="Top" Width="114" Click="Menu_Click" Height="51" Foreground="White" />
+            <Button Content="Seat Reservation" FontStyle="Italic" FontWeight="DemiBold" FontSize="16" HorizontalAlignment="Right" Margin="0,199,18,0" VerticalAlignment="Top" Width="169" Click="Reservation_Click" Height="63" />
+            <Button Content="Quit" FontStyle="Italic" FontWeight="DemiBold" FontSize="16" HorizontalAlignment="Left" Margin="10,379,0,0" VerticalAlignment="Top" Width="88" Click="Quit_Click" Height="35" RenderTransformOrigin="0.739,0.514"/>
+            <Button Content="My orders" FontStyle="Italic" FontWeight="DemiBold" FontSize="16" HorizontalAlignment="Left" Margin="10,287,0,0" VerticalAlignment="Top" Width="169" Click="Orders_Click" Height="62"/>
+        </Grid>
+        <Grid Margin="10,10,10,0">
+            <Grid x:Name="GridPrincipal" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+        </Grid>
+    </Grid>
+
+
+</Window>

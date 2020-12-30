@@ -1,0 +1,53 @@
+﻿<UserControl x:Class="IPZ_fast_food_.ReservedTables"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IPZ_fast_food_"
+        mc:Ignorable="d" Loaded="Window_Loaded" Height="367.968" Width="703.979">
+
+    <Grid  >
+        <ScrollViewer PreviewMouseWheel="ScrollViewer_PreviewMouseWheel" >
+            <DataGrid AutoGenerateColumns="False" x:Name="BurgersGrid"  CanUserAddRows="false" >
+               
+                       
+                
+                <DataGrid.Columns>
+                    <DataGridTemplateColumn Width="80"   Header="Login">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Login}" TextWrapping="Wrap" />
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                    <DataGridTemplateColumn Width="160" Header="Number" >
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Number}" TextWrapping="Wrap" />
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+
+
+                    <DataGridTemplateColumn Width="160"   Header="AfterDate">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding AfterDate}" TextWrapping="Wrap" />
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                    <DataGridTemplateColumn Width="160"   Header="BeforeDate">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding BeforeDate}" TextWrapping="Wrap" />
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                    
+
+                </DataGrid.Columns>
+
+            </DataGrid>
+        </ScrollViewer>
+    </Grid>
+</UserControl>

@@ -1,0 +1,64 @@
+﻿<UserControl x:Class="IPZ_fast_food_.Cart"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IPZ_fast_food_"
+        mc:Ignorable="d" Loaded="Window_Loaded" Height="367.968" Width="867.125">
+    <Grid HorizontalAlignment="Left" >
+        <Button Content="Update" Click="Update_Click" Margin="649,15,-273,321"/>
+        <Button Content="Confirm" Click="Confirm_Click" Margin="649,79,-273,257"/>
+
+        <ScrollViewer PreviewMouseWheel="ScrollViewer_PreviewMouseWheel" >
+            <DataGrid AutoGenerateColumns="False" x:Name="BurgersGrid"  CanUserAddRows="false" Width="627" >
+                <DataGrid.Columns>
+                    <DataGridTemplateColumn Width="125"   Header="Name">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Name}" x:Name="Name" TextWrapping="Wrap" />
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                    <DataGridTemplateColumn Width="80" Header="Image" >
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Image Source="{Binding Image}">
+                                    <Image.ToolTip>
+                                        <ToolTip  ContentStringFormat="Ping: {0}ms" Width="500" Height="284">
+                                            <Image Source="{Binding Image}"/>
+                                        </ToolTip>
+                                    </Image.ToolTip>
+                                </Image>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+
+
+                    <DataGridTemplateColumn Width="80"   Header="Price">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Price, ConverterCulture=de-DE, StringFormat=C}" />
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                    <DataGridTemplateColumn Width="200"   Header="Description">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Description}" TextWrapping="Wrap" />
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                    <DataGridTemplateColumn Width="150"   Header="Drop">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Button Name="add_click" Content="Drop" Click="Drop_Click"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+
+                </DataGrid.Columns>
+
+            </DataGrid>
+        </ScrollViewer>
+    </Grid>
+</UserControl>

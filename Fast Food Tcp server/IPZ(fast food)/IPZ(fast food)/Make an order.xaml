@@ -1,0 +1,23 @@
+﻿<UserControl x:Class="IPZ_fast_food_.Makeorder"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IPZ_fast_food_"
+        mc:Ignorable="d"
+         Width="1160" Height="615">
+    <UserControl.Background>
+        <ImageBrush ImageSource="images/menu.jpg" />
+    </UserControl.Background>
+    <Grid>
+
+        <TextBox HorizontalAlignment="Left" Height="30" Margin="10,30,0,0" TextWrapping="Wrap" Text="" Name="Search" VerticalAlignment="Top" Width="106" FontSize="18"/>
+        <Button Content="Search" HorizontalAlignment="Left" Margin="132,30,0,538" Width="77" Click="Search_Click"/>
+        <Button Content="View Goods" FontSize="18" FontFamily="Arial Black"  HorizontalAlignment="Left" Margin="10,183,0,334" Width="155" Click="View_Click" Height="Auto"/>
+        <Button Content="Cart" FontSize="50" RenderTransformOrigin="0.575,0.556" Margin="10,370,995,147" Click="Cart_Click" Height="Auto" />
+        <Grid Margin="214,0,10,142" Height="463" HorizontalAlignment="Left" >
+            <Grid x:Name="GridPrin" HorizontalAlignment="Left" />
+        </Grid>
+    </Grid>
+
+</UserControl>

@@ -1,0 +1,182 @@
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\App.baml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\Beverages.g.cs
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\BeveragesADD.g.cs
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\Burgers.g.cs
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\Cart.g.cs
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\Chicken.g.cs
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\Confirm.g.cs
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\HappyMeal.g.cs
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\HappyMealADD.g.cs
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\LogIn.g.cs
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\Menu.g.cs
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\MyOrders.g.cs
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\Registration.g.cs
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\MainWindow.g.cs
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\Make an order.g.cs
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\SearchResult.g.cs
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\ViewGoods.g.cs
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\BurgersADD.g.cs
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\СhickenADD.g.cs
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\App.g.cs
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\IPZ(fast food)_MarkupCompile.cache
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\IPZ(fast food)_MarkupCompile.lref
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\IPZ(fast food).csprojAssemblyReference.cache
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\Reservation.g.cs
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Debug\IPZ(fast food).exe.config
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Debug\IPZ(fast food).exe
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Debug\IPZ(fast food).pdb
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Debug\ControlzEx.dll
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Debug\Gu.Wpf.Adorners.dll
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Debug\MahApps.Metro.dll
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Debug\MaterialDesignColors.dll
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Debug\ControlzEx.pdb
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Debug\ControlzEx.xml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Debug\Gu.Wpf.Adorners.xml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Debug\MahApps.Metro.pdb
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Debug\MahApps.Metro.xml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Debug\MaterialDesignColors.pdb
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Debug\MaterialDesignThemes.MahApps.pdb
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\Beverages.baml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\BeveragesADD.baml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\Burgers.baml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\Cart.baml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\Chicken.baml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\Confirm.baml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\HappyMeal.baml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\HappyMealADD.baml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\LogIn.baml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\Menu.baml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\MyOrders.baml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\Registration.baml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\MainWindow.baml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\Make an order.baml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\SearchResult.baml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\ViewGoods.baml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\BurgersADD.baml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\СhickenADD.baml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\Reservation.baml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\IPZ(fast food).g.resources
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\IPZ_fast_food_.Properties.Resources.resources
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\IPZ(fast food).csproj.GenerateResource.cache
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\IPZ(fast food).csproj.CoreCompileInputs.cache
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\IPZ(fast food).csproj.CopyComplete
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\IPZ(fast food).exe
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\IPZ(fast food).pdb
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\ReservedTables.g.cs
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\ReservedTables.baml
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\MyReservedTable.g.cs
+C:\Users\molot\Documents\ipz_1_marii\Лабораторна робота №2\Проект\IPZ(fast food)\IPZ(fast food)\obj\Debug\MyReservedTable.baml
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\bin\Debug\IPZ(fast food).exe.config
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\bin\Debug\IPZ(fast food).exe
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\bin\Debug\IPZ(fast food).pdb
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\bin\Debug\ControlzEx.dll
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\bin\Debug\Gu.Wpf.Adorners.dll
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\bin\Debug\MahApps.Metro.dll
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\bin\Debug\MaterialDesignColors.dll
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\bin\Debug\ControlzEx.pdb
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\bin\Debug\ControlzEx.xml
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\bin\Debug\Gu.Wpf.Adorners.xml
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\bin\Debug\MahApps.Metro.pdb
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\bin\Debug\MahApps.Metro.xml
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\bin\Debug\MaterialDesignColors.pdb
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\bin\Debug\MaterialDesignThemes.MahApps.pdb
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\IPZ(fast food).csprojAssemblyReference.cache
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\App.baml
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\Beverages.g.cs
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\BeveragesADD.g.cs
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\Burgers.g.cs
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\Cart.g.cs
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\Chicken.g.cs
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\Confirm.g.cs
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\HappyMeal.g.cs
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\HappyMealADD.g.cs
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\LogIn.g.cs
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\Menu.g.cs
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\MyOrders.g.cs
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\MyReservedTable.g.cs
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\Registration.g.cs
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\MainWindow.g.cs
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\Make an order.g.cs
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\Reservation.g.cs
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\ReservedTables.g.cs
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\SearchResult.g.cs
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\ViewGoods.g.cs
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\BurgersADD.g.cs
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\СhickenADD.g.cs
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\App.g.cs
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\IPZ(fast food)_MarkupCompile.cache
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\IPZ(fast food)_MarkupCompile.lref
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\Beverages.baml
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\BeveragesADD.baml
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\Burgers.baml
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\Cart.baml
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\Chicken.baml
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\Confirm.baml
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\HappyMeal.baml
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\HappyMealADD.baml
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\LogIn.baml
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\Menu.baml
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\MyOrders.baml
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\MyReservedTable.baml
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\Registration.baml
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\MainWindow.baml
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\Make an order.baml
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\Reservation.baml
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\ReservedTables.baml
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\SearchResult.baml
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\ViewGoods.baml
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\BurgersADD.baml
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\СhickenADD.baml
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\IPZ(fast food).g.resources
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\IPZ_fast_food_.Properties.Resources.resources
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\IPZ(fast food).csproj.GenerateResource.cache
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\IPZ(fast food).csproj.CoreCompileInputs.cache
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\IPZ(fast food).csproj.CopyComplete
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\IPZ(fast food).exe
+C:\Users\molot\Desktop\IPZ(fast food)\IPZ(fast food)\obj\Debug\IPZ(fast food).pdb
