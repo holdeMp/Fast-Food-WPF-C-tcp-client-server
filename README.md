@@ -1,4 +1,4 @@
-# Fast-Food-WPF-Csharp--tcp-client-server
+# Fast-Food-WPF-tcp-client-server
 Fast Food WPF C# tcp client-server.
 Program implements Fast Food application with client–server model using TCP.
 for using:
